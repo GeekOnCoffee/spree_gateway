@@ -10,4 +10,6 @@ else
   gem "debugger"
 end
 
+gem "activerecord-sqlite3-adapter"
+
 gemspec
